@@ -1,5 +1,6 @@
 
 Gopal Geol's Website
+-
 
 The point of this web application is to give future managers and other programmers an idea of the skills,
 previously completed projects, education and test scores of a third-year engineering student. 
@@ -9,6 +10,7 @@ help of as many programmers as possible. Your help will ge greatly appreciated, 
 for your participation.
 
 Getting Started:
+-
 This documentation will help you get started with participating in this open-source project.
 To participate in the project please fork or clone the repository with this command:  
         
