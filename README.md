@@ -40,11 +40,11 @@ See the LICENSE.md file for details
 
 References
 -
-https://www.w3schools.com/jquery/  
-https://www.w3schools.com/CSS/  
-https://www.techradar.com/news/internet/web/html5-what-is-it-1047393  
-https://developer.mozilla.org/en-US/docs/Web/CSS  
-https://jquery.com/  
+1. https://www.w3schools.com/jquery/  
+2. https://www.w3schools.com/CSS/  
+3. https://www.techradar.com/news/internet/web/html5-what-is-it-1047393  
+4. https://developer.mozilla.org/en-US/docs/Web/CSS  
+5. https://jquery.com/  
 
 Acknowledgments
 -
