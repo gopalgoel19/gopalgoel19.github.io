@@ -26,7 +26,7 @@ JQuery - Is a JavaScript Library that simplifies how you program in JavaScript.
 Authors
 
 
-References:
+References:  
 https://www.w3schools.com/jquery/  
 https://www.w3schools.com/CSS/  
 https://www.techradar.com/news/internet/web/html5-what-is-it-1047393  
