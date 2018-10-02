@@ -17,8 +17,7 @@ To participate in the project please fork or clone the repository with this comm
     git clone https://github.com/gopalgoel19/gopalgoel19.github.io.git
 
 Running the code
--
-please open the index.html file and it will open the HTML file on the browser.
+-Please open the index.html file and it will open the HTML file on the browser.
 
 Built with
 -
