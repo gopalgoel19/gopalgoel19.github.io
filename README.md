@@ -11,7 +11,7 @@ for your participation.
 Getting Started:
 This documentation will help you get started with participating in this open-source project.
 To participate in the project please fork or clone the repository with this command:  
-git clone https://github.com/gopalgoel19/gopalgoel19.github.io.git
+    git clone https://github.com/gopalgoel19/gopalgoel19.github.io.git
 
 Running the code:  
 please open the index.html file and it will open the HTML file on the browser.
