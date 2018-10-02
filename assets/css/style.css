@@ -181,8 +181,12 @@ body {
 }
 .sidebar .heading .title {
   position: absolute;
-  right: 11px;
   bottom: 10px;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(128,128,128,0.6);
+  margin-bottom: -4px;
+  padding-bottom: 5px
 }
 .sidebar .heading .title span {
   margin-top: -5px;
