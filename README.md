@@ -22,9 +22,9 @@ please open the index.html file and it will open the HTML file on the browser.
 
 Built with
 -
-HTML5 - Is the latest version of a HyperText Markup Language that allows to describe web pages.  
-CSS3 - Is a Style Sheet Language that allows to style an HTML5 document.  
-JQuery - Is a JavaScript Library that simplifies how you program in JavaScript.  
+* HTML5 - Is the latest version of a HyperText Markup Language that allows to describe web pages.  
+* CSS3 - Is a Style Sheet Language that allows to style an HTML5 document.  
+* JQuery - Is a JavaScript Library that simplifies how you program in JavaScript.  
 
 Authors:
 -
