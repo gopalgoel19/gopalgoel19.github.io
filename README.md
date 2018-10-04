@@ -1,9 +1,9 @@
 
-Gopal Geol's Website
+Resume Website
 =
 
 The point of this web application is to give future managers and other programmers an idea of the skills,
-previously completed projects, education and test scores of a third-year engineering student. 
+previously completed projects, education and test scores of a third-year software engineer. 
 The website will help Gopal Goel create a personal brand for himself and also you will get experience while 
 working on this interesting project. This website needs the help of as many programmers as possible. 
 Your help will ge greatly appreciated, and you will be awarded by hacktoberfest for your participation.
@@ -14,7 +14,7 @@ This documentation will help you get started with participating in this open-sou
 To participate in the project please fork by pressing the fork button on the top right and clone the 
 repository with this command:  
         
-    git clone https://github.com/gopalgoel19/gopalgoel19.github.io.git
+    git clone https://github.com/{your-user-name}/gopalgoel19.github.io.git
 
 Running the code
 -
@@ -25,10 +25,6 @@ Built with
 * HTML5 - Is the latest version of a HyperText Markup Language that allows to describe web pages.  
 * CSS3 - Is a Style Sheet Language that allows to style an HTML5 document.  
 * JQuery - Is a JavaScript Library that simplifies how you program in JavaScript.  
-
-Authors:
--
-Gopal Goel
 
 Contributions:
 -
