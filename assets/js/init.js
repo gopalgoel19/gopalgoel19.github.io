@@ -5,8 +5,6 @@ $(document).ready(function() {
             /* NAVIGATION  */
     /***************************************************************************/
 
-      $('.button-collapse').sideNav();
-
       var user = 'codersdiealone',
           domain = 'gmail.com' ,
           elm = document.querySelector('#mailAdres');
