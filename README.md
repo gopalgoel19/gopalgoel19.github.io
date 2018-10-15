@@ -6,7 +6,7 @@ The point of this web application is to give future managers and other programme
 previously completed projects, education and test scores of a third-year software engineer. 
 The website will help Gopal Goel create a personal brand for himself and also you will get experience while 
 working on this interesting project. This website needs the help of as many programmers as possible. 
-Your help will ge greatly appreciated, and you will be awarded by hacktoberfest for your participation.
+Your help will be greatly appreciated, and you will be awarded by hacktoberfest for your participation.
 
 Getting Started
 -
@@ -45,7 +45,6 @@ References
 Acknowledgments
 -
 Hacktoberfest gives programmers the opportunity to help and support each other. It is not so much about getting a T-Shirt,
-but gaining experience. This should be a really fun experience and participation is not mandatory. This project will be an interesting one and I recommend that all you of please share your professional knowledge on how to improve the website by making it more attractive
-and user-friendly. Thank you guys!
+but gaining experience. This should be a really fun experience and participation is not mandatory. This project will be an interesting one and I recommend that all of you please share your professional knowledge on how to improve the website by making it more attractive and user-friendly. Thank you guys!
 
 Happy Coding!!!
