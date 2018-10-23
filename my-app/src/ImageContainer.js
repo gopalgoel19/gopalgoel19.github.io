@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import image from './assets/images/pp.jpg';
+import image from './pp.jpg';
 class ImageContainer extends Component {
   render() {
     return (
