@@ -167,11 +167,11 @@ body {
   line-height: 24pt;
   background-color: #5da4d9;
   margin-top: 20px;
-  padding: 0px 6px;
+  padding: 0px 0px;
 }
 .sidebar .heading nav .side-nav h3 {
   color: #5da4d9;
-  padding: 0 15px;
+  padding: 0 0px;
 }
 .sidebar .heading nav .side-nav li a:hover {
   color: #5da4d9;
