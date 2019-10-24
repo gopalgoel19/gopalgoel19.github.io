@@ -32,15 +32,7 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 
 License
 -
-See the LICENSE.md file for details
-
-References
--
-1. https://www.w3schools.com/jquery/  
-2. https://www.w3schools.com/CSS/  
-3. https://www.techradar.com/news/internet/web/html5-what-is-it-1047393  
-4. https://developer.mozilla.org/en-US/docs/Web/CSS  
-5. https://jquery.com/  
+See the LICENSE.md file for details  
 
 Acknowledgments
 -
