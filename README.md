@@ -1,5 +1,5 @@
 
-******************** Resume Website ********************
+******************** Resume Website *******************
 
 
 The point of this web application is to give future managers and other programmers an idea of the skills,
